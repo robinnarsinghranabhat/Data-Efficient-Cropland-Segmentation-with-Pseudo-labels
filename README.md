@@ -2,8 +2,7 @@
 Computer Vision Project for USD class `Computer Vision CSC 752 -UT1`
 
 The project details can be found at : 
-https://github.com/robinnarsinghranabhat/Data-Efficient-Cropland-Segmentation-with-Pseudo-labels/CV_Report.pdf
-
+`https://github.com/robinnarsinghranabhat/Data-Efficient-Cropland-Segmentation-with-Pseudo-labels/blob/main/CV_Report.pdf`
 
 ## Downloading the Sentinel-2 Images
 You need to login to Google Earth Engine Explorer, and use the JS files in :  `./gee/`
